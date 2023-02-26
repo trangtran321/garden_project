@@ -4,7 +4,7 @@ import {Button} from './Button'
 const menuOption = [
     'About Us',
     'Get Started',
-    'AFQ',
+    'FAQ',
     'Log In'
 ]
 
